@@ -16,4 +16,5 @@ Hard Mode 1-100
 
 3. Restaurant Picker: create 1 endpoint that takes an input and generates a Randomly Generated Restaurant based on the category chosen. 10 Restaurants per category.
 
-Peer Review: 
+Peer Review: Michael Heckerman
+  All in all the endpoints work as intended. My only nitpicks are maybe changing the route input to tell the user what the choices are, and have a .toLowercase so the user can use upper and lowercase. Other then those everything is working fine. Teseted in swagger and postman. Good Job.
